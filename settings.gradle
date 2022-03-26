@@ -1,0 +1,5 @@
+rootProject.name = 'First_on_Gradle'
+include 'db'
+include 'api'
+include 'service'
+
